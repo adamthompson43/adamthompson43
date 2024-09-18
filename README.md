@@ -1,4 +1,5 @@
-## Hi there 👋
+## Adam Thompson
+BSc in Applied Computing Year 3 @ SETU
 
 <!--
 **adamthompson43/adamthompson43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
